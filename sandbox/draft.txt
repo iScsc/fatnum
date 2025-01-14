@@ -1,0 +1,6 @@
+- Create a datastructure with fast access time and minimal memory footprint to store large (>1000 digits) numbers. It should implement mechanisms to optimize the storage on the file and be easily used in arithmetic operations.
+- The datastructure should contain the following fields :
+    - sign (bool) 1 = positive, 0 = negative
+    - value (abs(num)), digits of the number stored in a memory and time efficient manner
+    - length (int)
+    - chunksize (depending on solution) 
