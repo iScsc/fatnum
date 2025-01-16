@@ -4,3 +4,5 @@
     - value (abs(num)), digits of the number stored in a memory and time efficient manner
     - length (int)
     - chunksize (depending on solution) 
+
+- We break numbers into chunks storing them as hexadecimal strings
