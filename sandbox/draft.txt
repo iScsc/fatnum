@@ -3,6 +3,12 @@
     - sign (bool) 1 = positive, 0 = negative
     - value (abs(num)), digits of the number stored in a memory and time efficient manner
     - length (int)
-    - chunksize (depending on solution) 
+    - chunksize (depending on solution)
 
-- We break numbers into chunks storing them as hexadecimal strings
+# -----------------------------------------------
+- C or C++ ? if in C++, requires a wrapper to be called from C !!
+- Load big numbers from files, directly in a program (as strings or int)
+- be compatible with native integers types in C/C++
+- be memory friendly = not a memory hog
+- target Unix* system first and later windows
+

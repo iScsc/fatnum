@@ -1,0 +1,16 @@
+--line-length80
+--indent-level4
+--braces-on-if-line
+--braces-on-func-def-line
+--space-after-if
+--space-after-for
+--space-after-while
+--space-after-cast
+--no-space-after-function-call-names
+--no-space-after-parentheses
+--dont-break-function-decl-args
+--dont-break-procedure-type
+--continue-at-parentheses
+--no-tabs
+--cuddle-else
+--case-indentation0

@@ -11,3 +11,7 @@
 - [ ] Modular arithmetic
 - [ ] Parallelism with OpenMP and MPI + GPU acceleration with CUDA
 - [ ] Comprehensive test suite
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -126,3 +126,5 @@ archives/
 bin/
 obj/
 old.txt
+data.txt
+.vscode/
